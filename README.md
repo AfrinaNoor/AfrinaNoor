@@ -1,50 +1,90 @@
-# 👋 Hi, I'm Afrina Noor!
+<!-- Banner (optional) -->
+<p align="center">
+  <img src="https://your-banner-image-url" alt="Welcome Banner" width="100%"/>
+</p>
 
-🎓 I'm a passionate Computer Science graduate with a strong interest in app development, UI/UX design, and web development. I love building useful mobile apps using Flutter and have experience working on real-world projects, internships, and competitions.
+# 👋 Hi, I'm [Your Name]!
 
-## 🚀 Projects
-
-### 🔹 Doctor Appointment App
-An AI-powered scheduling app made using Flutter, featuring chatbot integration, Google Maps for nearby hospitals, and a smart UI.
-
-### 🔹 Expense Tracker App
-Helps users manage expenses and income, with Firebase authentication and personalized budgeting features.
-
-### 🔹 BMI Calculator
-Simple and intuitive Flutter app to calculate BMI and show healthy ranges.
-
-### 🔹 Currency Converter
-Converts USD to BDT, with a clean and minimal user interface.
-
-### 🔹 Student Information System
-Built using Flutter and SQLite to manage and display student data efficiently.
-
-## 🎨 Design & Skills
-
-- **Languages & Tools**: C++, Python, Dart, MySQL, HTML, CSS, JavaScript, React Native
-- **Frameworks**: Flutter, Firebase, SQLite, RASA
-- **Design Tools**: Figma, Canva, Adobe Illustrator
-- **Skills**: UI/UX Design, Data Entry, Leadership, Teamwork, Critical Thinking
-
-## 💼 Internships & Experience
-
-- **App Development Intern** at Brain Machine AI (2025 - Present)
-- **Graphic Design Intern** at YSSE.
-- **Executive Member** of the Data Science and Research Club at university
-
-## 🏆 Achievements
-
-- 🎓 Presented a B.Sc. Defense Project on an AI Doctor Appointment App
-- 🥇 Participated in Banglalink AppLink contest for app idea sharing
-- 🧠 Finalist in a business competition for **UFarm**, a sustainable agriculture startup idea
-
-## 📫 Let's Connect!
-
-- [LinkedIn](https://www.linkedin.com/in/afrina-noor-3a0675213/)
-- [GitHub](https://github.com/AfrinaNoor)
-- [Facebook](https://facebook.com/your-profile)
-- [WhatsApp](https://wa.me/01611802850)
+🎓 A passionate **Computer Science & Engineering** student | 💻 Flutter Developer | 🎨 UI/UX Enthusiast  
+🚀 I love turning ideas into apps and bringing clean, useful user interfaces to life.
 
 ---
 
-Thanks for visiting my profile! 🌱 I'm always eager to collaborate on exciting projects or learn something new.
+## 🔥 Tech Stack & Tools
+
+<p align="left">
+  <img src="https://img.shields.io/badge/Flutter-02569B?style=for-the-badge&logo=flutter&logoColor=white"/>
+  <img src="https://img.shields.io/badge/Firebase-FFCA28?style=for-the-badge&logo=firebase&logoColor=black"/>
+  <img src="https://img.shields.io/badge/Dart-0175C2?style=for-the-badge&logo=dart&logoColor=white"/>
+  <img src="https://img.shields.io/badge/MySQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white"/>
+  <img src="https://img.shields.io/badge/Figma-F24E1E?style=for-the-badge&logo=figma&logoColor=white"/>
+</p>
+
+---
+
+## 💼 Projects Showcase
+
+### 👨‍⚕️ Doctor Appointment App (AI-based)
+> A Flutter app with chatbot support, hospital locator using Google Maps, and smart appointment booking.
+
+🎥 **Demo GIF**  
+![Doctor App Demo](https://your-gif-link-or-screenshot)
+
+---
+
+### 💰 Expense Tracker App
+Track your expenses and income with Firebase Auth, budgeting features, and a clean dashboard.
+
+🎥 **Demo GIF**  
+![Expense App Demo](https://your-gif-link-or-screenshot)
+
+---
+
+### ⚖️ BMI Calculator
+Simple BMI calculator with healthy range output and beautiful UI.
+
+🎥 **Demo GIF**  
+![BMI App Demo](https://your-gif-link-or-screenshot)
+
+---
+
+## 📈 GitHub Stats
+
+<p align="left">
+  <img src="https://github-readme-stats.vercel.app/api?username=your-github-username&show_icons=true&theme=radical" alt="GitHub Stats" height="150"/>
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=your-github-username&layout=compact&theme=radical" alt="Top Languages" height="150"/>
+</p>
+
+---
+
+## 🏆 Highlights
+
+- 🎓 B.Sc. Defense Project: **AI Doctor Appointment App**
+- 🧪 Intern @ **Brain Machine AI** – Flutter App Developer
+- 🖼️ Graphic Design Intern @ YSSE
+- 💡 App idea shared in **Banglalink AppLink** Contest
+- 🌱 Presented business startup idea **UFarm** (Sustainable AgriTech)
+
+---
+
+## 📫 Connect With Me
+
+<p align="left">
+  <a href="https://linkedin.com/in/your-profile" target="_blank">
+    <img src="https://img.shields.io/badge/LinkedIn-blue?style=for-the-badge&logo=linkedin&logoColor=white"/>
+  </a>
+  <a href="https://github.com/your-github-username" target="_blank">
+    <img src="https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white"/>
+  </a>
+  <a href="https://facebook.com/your-profile" target="_blank">
+    <img src="https://img.shields.io/badge/Facebook-1877F2?style=for-the-badge&logo=facebook&logoColor=white"/>
+  </a>
+  <a href="https://wa.me/your-number" target="_blank">
+    <img src="https://img.shields.io/badge/WhatsApp-25D366?style=for-the-badge&logo=whatsapp&logoColor=white"/>
+  </a>
+</p>
+
+---
+
+![Visitor Badge](https://komarev.com/ghpvc/?username=your-github-username&style=flat-square)
+
