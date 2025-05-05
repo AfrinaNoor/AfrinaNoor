@@ -1,12 +1,30 @@
 <!-- Welcome Banner -->
 <p align="center">
-  <img src="https://img1.picmix.com/output/stamp/normal/8/5/1/2/2452158_23a49.gif" alt="Welcome Banner" width="300"/>
+  <img src="https://media2.giphy.com/media/v1.Y2lkPTc5MGI3NjExbzM4c3Y4MGdtbDhxYXRsdGltd3Bzd2w1emZtNTdqNjkzMDJ5OWx1NiZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/YrZECW1GgBkqat6F0B/giphy.gif" alt="Welcome Banner" width="300"/>
 </p>
 
-# 👋 Hi, I'm Afrina Noor!
+<h1 align="center">🎀 Afrina Noor — Developer by day, designer by heart 💕 💻✨📱</h1>
 
-🎓 A passionate **Computer Science & Engineering** graduate | 💻 App Developer | 💻 Web Developer | 🎨 UI/UX Enthusiast  
-🚀 I love turning ideas into apps and bringing clean, useful user interfaces to life.
+<p align="center">
+  🎓 Computer Science & Engineering Graduate | 💻 App Developer | 🌐 Web Developer | 🎨 UI/UX Enthusiast  
+</p>
+
+<p align="center">
+  🚀 I love turning ideas into apps and bringing beautiful, user-friendly interfaces to life.  
+</p>
+
+---
+
+## 💡 About Me
+
+✨ I’m a creative problem solver who blends code with design to craft seamless digital experiences. From brainstorming app ideas to building and polishing them — I enjoy the full journey.  
+💬 I’m always eager to collaborate, learn, and contribute to impactful tech projects.
+
+- 🔭 Currently working as a Flutter App Development Intern at **Brain Machine AI**
+- 💼 Passionate about UI/UX design, app logic, and real-world problem solving
+- 📱 Love building mobile-first solutions with clean and responsive UI
+- 🌱 Exploring AI integration, chatbot interfaces, and real-time databases
+- 🎯 On a mission to grow as a full-stack mobile app developer
 
 ---
 
